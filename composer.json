@@ -1,0 +1,20 @@
+{
+  "name": "jey/telegram-cleaner-bot",
+  "type": "script",
+  "keywords": ["telegram", "cleaner", "bot", "api"],
+  "authors": [
+    {
+      "name": "Javad Sadeghi",
+      "email": "sadeghij87@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jey\\": "src/"
+    },
+    "files": [
+      "src/files/helpers.php"
+    ]
+  },
+  "description": "Simple Telegram cleaner source"
+}
