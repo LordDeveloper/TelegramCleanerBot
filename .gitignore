@@ -1,8 +1,7 @@
 .env
 .vscode
 .idea
-vendor
+vendor/
 composer.lock
-index.php
 storage/
 static/
