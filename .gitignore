@@ -2,6 +2,6 @@
 .vscode
 .idea
 composer.lock
-/storage/
-/static/
-/vendor/
+storage/
+static/
+vendor/
