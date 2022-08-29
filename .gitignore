@@ -1,0 +1,8 @@
+.env
+.vscode
+.idea
+vendor
+composer.lock
+index.php
+storage/
+static/

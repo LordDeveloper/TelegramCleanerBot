@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "jey/telegram-cleaner-bot",
   "type": "script",
   "keywords": ["telegram", "cleaner", "bot", "api"],
@@ -17,4 +18,18 @@
     ]
   },
   "description": "Simple Telegram cleaner source"
+=======
+    "name": "botify-framework/botify",
+    "scripts": {
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "pre-install-cmd": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ]
+    },
+    "require": {
+        "botify-framework/framework": "^v1"
+    }
+>>>>>>> b0da91a (Initial commit)
 }
