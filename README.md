@@ -1,3 +1,9 @@
+## How to install:
+
+```shell
+git clone https://github.com/LordDeveLoper/TelegramCleanerBot && cd TelegramCleanerBot && composer install
+```
+
 ## How to use:
 
 - **Put the token in the config.php file**
