@@ -1,7 +1,7 @@
 .env
 .vscode
 .idea
-vendor/
 composer.lock
-storage/
-static/
+/storage/
+/static/
+/vendor/
